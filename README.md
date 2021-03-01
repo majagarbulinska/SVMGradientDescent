@@ -5,7 +5,7 @@ This implementation of the Support Vector Machines(SVM) algorithm is based on th
 In this repo you will find code that will enable you to create animated SVM convergence graphs. You can play with the learning rate and the regularization parameter lambda. 
 
 <p align="center">
-  <img width="50%" height="50%" src="animationSVM.gif">
+  <img width="50%" height="50%" src="animationSVMGD.gif">
 </p>
 
 
